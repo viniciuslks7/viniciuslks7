@@ -120,6 +120,6 @@
   <p align="center">
     <i>"Eu, por vontade própria, caçarei Zoh'Shia!"</i><br>
     <b>― ViniBeckermann, MH WILDS</b>
-    <img src="https://media1.tenor.com/m/UtKYsW25ZLsAAAAC/malzeno-pixel.gif" width="100" style="position: absolute; right: 0; bottom: 0;">
+    <img src="https://i.imgur.com/YIt9GpT.gif" width="100" style="position: absolute; right: 0; bottom: 0;">
   </p>
 </div>
