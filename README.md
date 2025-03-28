@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/HKU11OdfIbkAAAAd/fatalis-monster-hunter.gif" width="400">
+  <img src="https://media1.tenor.com/m/WXLvuNd3Vb4AAAAd/safijiiva-mhw.gif" width="400">
 </p>
 
 <h1 align="center">🐉 Olá, eu sou Vinicius Oliveira! 👋🎮</h1>
@@ -118,5 +118,5 @@ Aqui você encontra mais certificados variados! Como cursos da AWS de Quantum Co
 
 <p align="center">
   <i>"Eu, por vontade própria, caçarei Zoh'Shia!"</i><br>
-  <b>― Vinicius Oliveira, MH WILDS</b>
+  <b>― ViniBeckermann, MH WILDS</b>
 </p>
