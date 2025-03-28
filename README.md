@@ -118,8 +118,9 @@
   </p>
 
   <p align="center">
-    <i>"Eu, por vontade própria, caçarei Zoh'Shia!"</i><br>
-    <b>― ViniBeckermann, MH WILDS</b>
-    <img src="https://i.imgur.com/YIt9GpT.gif" width="100" style="position: absolute; right: 0; bottom: 0;">
-  </p>
+  <i>"Eu, por vontade própria, caçarei Zoh'Shia!"</i><br>
+  <b>― ViniBeckermann, MH WILDS</b>
+</p>
+<img src="https://i.imgur.com/YIt9GpT.gif" style="position: absolute; right: 20px; bottom: 20px; width: 100px;">
+
 </div>
