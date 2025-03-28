@@ -21,6 +21,8 @@
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![Q#](https://img.shields.io/badge/Q%23-239120?style=for-the-badge&logo=qsharp&logoColor=white)
+  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+  ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
   ### 🎨 Front-end
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -70,6 +72,8 @@
   ![Design Thinking](https://img.shields.io/badge/Design_Thinking-FF6B6B?style=for-the-badge)
   ![ScrumXP](https://img.shields.io/badge/ScrumXP-0052CC?style=for-the-badge)
   ![Jornada do Usuário](https://img.shields.io/badge/Jornada_do_Usuário-FF9E0F?style=for-the-badge)
+  ![Canvas](https://img.shields.io/badge/Canvas-4A90E2?style=for-the-badge)
+  ![Análise SWOT](https://img.shields.io/badge/Análise_SWOT-FFD700?style=for-the-badge)
 
   ### 🔧 Ferramentas & DevOps
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
