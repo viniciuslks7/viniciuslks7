@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/0XKxUZvL9ZwAAAAd/fatalis-monster-hunter.gif" width="400">
+  <img src="https://media1.tenor.com/m/HKU11OdfIbkAAAAd/fatalis-monster-hunter.gif" width="400">
 </p>
 
 <h1 align="center">🐉 Olá, eu sou Vinicius Oliveira! 👋🎮</h1>
