@@ -1,5 +1,9 @@
-# 🐉 Olá, eu sou Vinicius Oliveira! 👋🎮 
-> *"Caçador de bugs por profissão, de monstros por paixão"*
+<p align="center">
+  <img src="https://media.tenor.com/0XKxUZvL9ZwAAAAd/fatalis-monster-hunter.gif" width="400">
+</p>
+
+<h1 align="center">🐉 Olá, eu sou Vinicius Oliveira! 👋🎮</h1>
+<h3 align="center"><i>"Caçador de bugs por profissão, de monstros por paixão"</i></h3>
 
 ## 💻 Sobre Mim
 Sou um Programador/Desenvolvedor Full Stack apaixonado por tecnologia, arquitetura de sistemas e resolver problemas complexos. Quando não estou codando, provavelmente estou explorando novas tecnologias ou jogando Monster Hunter.
@@ -81,10 +85,10 @@ Sou um Programador/Desenvolvedor Full Stack apaixonado por tecnologia, arquitetu
 ![HTTPS](https://img.shields.io/badge/HTTPS-009688?style=for-the-badge&logo=https&logoColor=white)
 
 ## 📊 Estatísticas do GitHub
-
-![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=viniciuslks7&show_icons=true&theme=radical)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuslks7&layout=compact&theme=radical&hide=procfile)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=viniciuslks7&show_icons=true&theme=dark&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuslks7&layout=compact&theme=dark&hide_border=true">
+</p>
 
 ## 📂 Projetos Destacados
 
@@ -103,8 +107,16 @@ Sou um Programador/Desenvolvedor Full Stack apaixonado por tecnologia, arquitetu
 Aqui você encontra mais certificados variados! Como cursos da AWS de Quantum Code, participações em maratonas de programação, projetos voluntários e até mesmo de desenvolvimento humano como TDAH, cultura maker e muitos outros!
 
 ## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-oliveira-72698a1ab/)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198796700048/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/vinicius-oliveira-72698a1ab/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://steamcommunity.com/profiles/76561198796700048/">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
+  </a>
+</p>
 
-## 💡 Citação Favorita
-> "Eu, por vontade própria, caçarei Zoh'Shia!" - Caçador, MH WILDS.
+<p align="center">
+  <i>"Eu, por vontade própria, caçarei Zoh'Shia!"</i><br>
+  <b>― Vinicius Oliveira, MH WILDS</b>
+</p>
