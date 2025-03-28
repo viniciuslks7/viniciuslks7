@@ -117,11 +117,12 @@
     </a>
   </p>
 
-  <p align="center">
+<p align="center">
   <i>"Eu, por vontade própria, caçarei Zoh'Shia!"</i><br>
   <b>― ViniBeckermann, MH WILDS</b>
 </p>
 <p align="center">
-  <img src="https://i.imgur.com/YIt9GpT.gif" width="100">
+  <img src="https://i.imgur.com/YIt9GpT.gif" style="width: auto; height: auto;">
 </p>
+
 </div>
