@@ -1,6 +1,6 @@
-<div style="background-color: #1e1e1e; color: #d1d1d1; padding: 20px; border-radius: 10px;">
-  <p align="center">
-    <img src="https://media1.tenor.com/m/YRHVu5D64sMAAAAd/monster-hunter-monster-hunter-rise.gif" width="400">
+<div style="background-image: url('https://i.imgur.com/CBwZ16V.jpeg'); background-size: cover; background-position: center; color: #d1d1d1; padding: 20px; border-radius: 10px; position: relative;">
+  <p align="center" style="margin-bottom: 20px;">
+    <img src="https://media1.tenor.com/m/YRHVu5D64sMAAAAd/monster-hunter-monster-hunter-rise.gif" style="width: 100%; height: auto; border-radius: 10px;">
   </p>
 
   <h1 align="center">🐉 Olá, eu sou Vinicius Oliveira! 👋🎮</h1>
