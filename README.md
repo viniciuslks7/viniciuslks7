@@ -90,7 +90,7 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" title="Express.js"/>
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="NestJS" title="NestJS"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" title="NestJS"/>
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" title="Flask"/>
     <img width="12" />
@@ -127,10 +127,10 @@
   ![Oracle Cloud](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
   #### AWS Certifications
-  [<img src="https://images.credly.com/size/680x680/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" width="100" alt="AWS Knowledge: Serverless">](https://www.credly.com/badges/db3f3724-9e29-435f-8859-d6d189e6cbdd/public_url)
-  [<img src="https://images.credly.com/size/680x680/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" width="100" alt="AWS Cloud Quest: Cloud Practitioner">](https://www.credly.com/badges/921fdafd-06c5-4fa2-a63d-587eeabc2642/public_url)
-  [<img src="https://images.credly.com/size/680x680/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" width="100" alt="AWS Knowledge: Cloud Essentials">](https://www.credly.com/badges/4106ffb6-2ac8-4dce-97a3-5369fa3981fd/public_url)
-  [<img src="https://images.credly.com/size/680x680/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" width="100" alt="AWS Knowledge: Amazon Braket">](https://www.credly.com/badges/c05f92e0-4dbe-48a8-a2b7-670df772e703/public_url)
+  [<img src="https://images.credly.com/size/340x340/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" width="100" alt="AWS Knowledge: Serverless">](https://www.credly.com/badges/db3f3724-9e29-435f-8859-d6d189e6cbdd/public_url)
+  [<img src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" width="100" alt="AWS Cloud Quest: Cloud Practitioner">](https://www.credly.com/badges/921fdafd-06c5-4fa2-a63d-587eeabc2642/public_url)
+  [<img src="https://images.credly.com/size/340x340/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" width="100" alt="AWS Knowledge: Cloud Essentials">](https://www.credly.com/badges/4106ffb6-2ac8-4dce-97a3-5369fa3981fd/public_url)
+  [<img src="https://images.credly.com/size/340x340/images/d82190cb-9fee-450c-9cf3-1fcb0e8b0c6b/image.png" width="100" alt="AWS Knowledge: Amazon Braket">](https://www.credly.com/badges/c05f92e0-4dbe-48a8-a2b7-670df772e703/public_url)
 
   #### Oracle Certifications
   [<img src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2023CA.png" width="100" alt="OCI Foundations Associate">](https://catalog-education.oracle.com/ords/certview/sharebadge?id=F85043432294C78FD1BE13EE826D50FB57D2B6F8434C5FEBDA0BA0E70744B530)
