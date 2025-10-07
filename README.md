@@ -79,14 +79,14 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" title="Figma"/>
   </p>
   
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
   ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
   ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
   ![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat&logo=mui&logoColor=white)
   ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
   ### ⚙️ Back-end & Frameworks
@@ -99,11 +99,11 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" title="Flask"/>
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker"/>
+    <img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-IndigoSymbol.png" height="40" alt="Prisma" title="Prisma"/>
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="Socket.io" title="Socket.io"/>
     <img width="12" />
-    <img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-IndigoSymbol.png" height="40" alt="Prisma" title="Prisma"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker"/>
   </p>
   
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
@@ -122,7 +122,7 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB"/>
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" title="Firebase"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebird" title="Firebird"/>
   </p>
   
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
@@ -141,9 +141,9 @@
   [<img src="./assets/aws-knowledge-amazon-braket-training-badge.png" width="100" alt="AWS Knowledge: Amazon Braket">](https://www.credly.com/badges/c05f92e0-4dbe-48a8-a2b7-670df772e703/public_url)
 
   #### Oracle Certifications
-  [<img src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2023CA.png" width="100" alt="OCI Foundations Associate">](https://catalog-education.oracle.com/ords/certview/sharebadge?id=F85043432294C78FD1BE13EE826D50FB57D2B6F8434C5FEBDA0BA0E70744B530)
-  [<img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI23AIFCA.png" width="100" alt="OCI AI Foundations">](https://catalog-education.oracle.com/ords/certview/sharebadge?id=F1F8769652CBB65BCD646A65BB55F48E8F7041370A430B2AD03A43B36FEBB6AD)
-  [<img src="https://brm-workforce.oracle.com/pdf/certview/images/OCDMF2023.png" width="100" alt="OCI Data Management">](https://catalog-education.oracle.com/ords/certview/sharebadge?id=2964B215E6919B906F493A29741D4E9C5D2D161A24352BC4995B9259EA760472)
+  [<img src="./assets/Oracle Cloud Infrastructure 2023 Certified Foundations Associate.png" width="100" alt="OCI Foundations Associate">](https://catalog-education.oracle.com/ords/certview/sharebadge?id=F85043432294C78FD1BE13EE826D50FB57D2B6F8434C5FEBDA0BA0E70744B530)
+  [<img src="./assets/Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate.png" width="100" alt="OCI AI Foundations">](https://catalog-education.oracle.com/ords/certview/sharebadge?id=F1F8769652CBB65BCD646A65BB55F48E8F7041370A430B2AD03A43B36FEBB6AD)
+  [<img src="./assets/Oracle Cloud Data Management 2023 Certified Foundations Associate.png" width="100" alt="OCI Data Management">](https://catalog-education.oracle.com/ords/certview/sharebadge?id=2964B215E6919B906F493A29741D4E9C5D2D161A24352BC4995B9259EA760472)
 
   ### 🚀 Metodologias Ágeis
   ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=scrum&logoColor=white)
@@ -160,13 +160,13 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker"/>
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code"/>
-    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" title="Figma"/>
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira" title="Jira"/>
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="Trello" title="Trello"/>
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code"/>
   </p>
   
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
