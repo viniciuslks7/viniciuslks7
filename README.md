@@ -43,9 +43,9 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP"/>
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET" title=".NET"/>
+    <img src="./assets/Q#-Icon.png" height="40" alt="Q#" title="Q#"/>
     <img width="12" />
-    <img src="https://raw.githubusercontent.com/microsoft/Quantum/main/Design/q%23%20Logo/q%23-logo-color.png" height="40" alt="Q#" title="Q#"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET" title=".NET"/>
   </p>
   
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
