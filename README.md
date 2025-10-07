@@ -56,7 +56,7 @@
   ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-  ![Q#](https://img.shields.io/badge/Q%23-239120?style=flat&logoColor=white)
+  <img src="./assets/Q#-Icon.png" height="20" alt="Q#" style="vertical-align: middle;"/>
   ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
   ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 
